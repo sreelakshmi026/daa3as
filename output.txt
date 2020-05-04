@@ -1,0 +1,6 @@
+file containing graph details
+First <N><M>
+Next N lines : a c,where c is cost of vertex a
+next M lines define edge cost of each edge 
+Arugument 2 : destination vertex of d eg 2
+out of cost of dest vertex d from each vertex
